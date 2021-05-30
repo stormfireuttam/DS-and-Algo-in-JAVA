@@ -15,3 +15,5 @@ DATA STRUCTURE AND ALGO (MADE EASY Important Questions).
 - Middle Node of LinkedList
 - Check LinkedList Length To Be Odd Or Even
 - Display LinkedList From End
+- Reverse LinkedList In Pair
+- Split LinkedList Into Two Equal Halves
