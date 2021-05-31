@@ -17,3 +17,5 @@ DATA STRUCTURE AND ALGO (MADE EASY Important Questions).
 - Display LinkedList From End
 - Reverse LinkedList In Pair
 - Split LinkedList Into Two Equal Halves
+- Check LinkedList To Be Palindrome
+- Reverse Block of K Nodes in LinkedList
