@@ -21,3 +21,9 @@ DATA STRUCTURE AND ALGO (MADE EASY Important Questions).
 16. Reverse Block of K Nodes in LinkedList
 17. Josephus Circle
 18. Deep clone a Linked List with Random Pointers
+
+## Stack
+
+1. Static Array Implementation
+2. Dynamic Array Implementation
+3. Linked List Implementation
