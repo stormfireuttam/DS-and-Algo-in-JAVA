@@ -27,3 +27,7 @@ DATA STRUCTURE AND ALGO (MADE EASY Important Questions).
 1. Static Array Implementation
 2. Dynamic Array Implementation
 3. Linked List Implementation
+4. Balancing Brackets
+5. Infix to Postfix
+6. Postfix Evaluation
+7. 
