@@ -30,4 +30,4 @@ DATA STRUCTURE AND ALGO (MADE EASY Important Questions).
 4. Balancing Brackets
 5. Infix to Postfix
 6. Postfix Evaluation
-7. 
+7. Get Minimum From Stack
